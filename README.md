@@ -18,7 +18,7 @@ The main advantage of the **Exponential Moving Average (EMA)** over the **Simple
 ---
 ##  What the Project Does
 
-- Downloads historical stock data for **PINS** using `yfinance`
+- Downloads historical stock data using `yfinance`
 - Calculates two exponential moving averages:
   - EMA12 (short-term)
   - EMA26 (long-term)
