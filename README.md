@@ -2,7 +2,7 @@
 ##  Goal
 
 Build a simple trading strategy based on the crossover of exponential moving averages (EMA), compare its performance against a Buy & Hold strategy, and provide a visual analysis of the results.
-![[formulae.png|500]]
+![[images/formulae.png|500]]
 The main advantage of the **Exponential Moving Average (EMA)** over the **Simple Moving Average (SMA)** is that **EMA gives more weight to recent prices**, making it more responsive to new information and short-term market movements
 
 ---
@@ -32,6 +32,6 @@ The main advantage of the **Exponential Moving Average (EMA)** over the **Simple
 
 
 ## Plot
-![Plot](pins.png)
+![Plot](images/pins.png)
 and that's when the EMA looks lose relative to B&H:
-![Plot](hood.png)
+![Plot](images/hood.png)
